@@ -1,0 +1,13 @@
+# 每个 skill 的 node_modules
+**/node_modules/
+
+# 系统/编辑器
+.DS_Store
+*.swp
+
+# Playwright 截图/产物(若输出到仓库内)
+*.png
+*.jpg
+*.webm
+playwright-artifacts/
+playwright-tests/
